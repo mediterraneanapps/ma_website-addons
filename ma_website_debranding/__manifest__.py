@@ -6,7 +6,7 @@
     'category': 'Debranding',
     'images': ['images/website_debranding.jpg'],
     "support": "mediterranean.apps@gmail.com",
-    'price': 15.00,
+    'price': 150.37,
     'currency': 'EUR',
     'depends': ['website', 'web_debranding'],
     'data': [
