@@ -1,5 +1,5 @@
 {
-    "name": """Multi Ecommerce""",
+    "name": """Multi Website support in eCommerce""",
     "summary": """Multi Website support in eCommerce""",
     "category": "eCommerce",
     "images": ["images/website_multi_company_sale_main.png"],
