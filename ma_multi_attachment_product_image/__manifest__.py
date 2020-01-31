@@ -18,7 +18,7 @@
 
     "depends": [
         "website_sale",
-        "web_multi_attachment_base",
+        "ma_web_multi_attachment_base",
     ],
     "external_dependencies": {"python": [], "bin": []},
     "data": [
