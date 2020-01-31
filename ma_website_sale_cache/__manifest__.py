@@ -17,7 +17,7 @@
     "depends": [
         "website_sale",
         "website",
-        "base_action_rule",
+        "ma_base_action_rule",
     ],
     "data": [
         "views.xml",
