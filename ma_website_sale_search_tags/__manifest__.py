@@ -11,7 +11,7 @@
     'price': 14.0,
     'currency': 'EUR',
     'images': ['images/search.png'],
-    'depends': ['website_sale', 'product_tags'],
+    'depends': ['website_sale', 'ma_product_tags'],
     'post_load': None,
     'pre_init_hook': None,
     'post_init_hook': None,
