@@ -8,7 +8,7 @@
     "support": "mediterranean.apps@gmail.com",
     'price': 150.37,
     'currency': 'EUR',
-    'depends': ['website', 'web_debranding'],
+    'depends': ['website', 'ma_web_debranding'],
     'data': [
         'views.xml',
     ],
